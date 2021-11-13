@@ -103,6 +103,14 @@
 }
 
 
+@media (max-width: 576px) {
+  .faq .active div.p {
+    max-height: 180px;
+    height: 180px;
+  }
+}
+
+
 .faq a{
   color:steelblue;
 }
